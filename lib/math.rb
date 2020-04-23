@@ -11,8 +11,9 @@ sum
 end
 
 def division(num1, num2)
-puts num2/num1
-returns sum
+sum = num2/num1
+puts "#{sum}"
+sum
 end
 
 def multiplication(num1, num2)
